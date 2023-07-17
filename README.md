@@ -2,7 +2,7 @@
 
 ## Description
 
-PDF Chatbot is a Streamlit-based interactive web application that allows users to extract and chat with the content in their uploaded PDF documents. The chatbot leverages advanced Natural Language Processing (NLP) techniques and algorithms to understand and answer user queries related to the content of the PDF documents.
+PDF Chatbot is a Streamlit-based interactive web application that allows users to extract and chat with the content in their uploaded PDF documents. The chatbot leverages LLMs, Langchain, and NLP tools and algorithms to understand and answer user queries related to the content of the PDF documents.
 
 ## Installation
 
@@ -10,9 +10,9 @@ PDF Chatbot is a Streamlit-based interactive web application that allows users t
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed Python 3.6 or later.
+- You have installed Python 3.10 or later.
 - You have installed pip, the Python package installer.
-- You have a Windows/Linux/Mac machine with a stable internet connection.
+- You have a Mac/Linux/Windows machine with a stable internet connection.
 
 ### Installing PDF Chatbot
 
